@@ -11,6 +11,7 @@ Example programs are provided which implement the packing, unpacking, diffing, a
 
 | CI Environment   | Tasks            | Status |
 |------------------|------------------|-------:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b9b3011ae554a81b33853cd4f7f40f6)](https://app.codacy.com/manual/Yattabyte/nSuite?utm_source=github.com&utm_medium=referral&utm_content=Yattabyte/nSuite&utm_campaign=Badge_Grade_Settings)
 | Travis CI        | Build/Test/LCOV/ | [![Travis CI Status](https://travis-ci.com/Yattabyte/nSuite.svg?branch=beta)](https://travis-ci.com/Yattabyte/nSuite) |
 | Appveyor         | Build/Test       | [![Build status](https://ci.appveyor.com/api/projects/status/7gheavgnj8cooyxx/branch/beta?svg=true)](https://ci.appveyor.com/project/Yattabyte/nsuite/branch/beta) |
 | Codecov          | Code Coverage    | [![codecov](https://codecov.io/gh/Yattabyte/nSuite/branch/beta/graph/badge.svg)](https://codecov.io/gh/Yattabyte/nSuite) |
